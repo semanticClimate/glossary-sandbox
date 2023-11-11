@@ -8,7 +8,7 @@ https://semanticclimate.github.io/glossary-sandbox/ipccglossary.jsonld
 
 Render
 
-https://vivliostyle.vercel.app/#src=https://semanticclimate.github.io/glossary-sandbox/ipccglossary.jsonld
+https://vivliostyle.vercel.app/#src=https://semanticclimate.github.io/glossary-sandbox/ipccglossary.jsonld 
 
 
 
