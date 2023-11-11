@@ -3,6 +3,6 @@ Hello World
 
 https://vivliostyle.vercel.app/
 
-https://vivliostyle.vercel.app/#src=https://raw.githubusercontent.com/semanticClimate/glossary-sandbox/main/index.html
+https://vivliostyle.vercel.app/#src=https://semanticclimate.github.io/glossary-sandbox/
 
 
