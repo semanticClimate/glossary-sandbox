@@ -7,18 +7,18 @@
     "url": ["https://publisher.example.org/mobydick"],
     "name": [
         {
-            "value": "Moby-Dick",
+            "value": "IPCC Glossary",
             "language": "en"
         }
     ],
     "author": [
         {
             "type": [
-                "Person"
+                "Organisation"
             ],
             "name": [
                 {
-                    "value": "Herman Melville"
+                    "value": "IPCC"
                 }
             ]
         }
@@ -29,61 +29,13 @@
             "type": [
                 "LinkedResource"
             ],
-            "url": "https://publisher.example.org/mobydick//html/title.html"
+            "url": "glossary.html"
         },
         {
             "type": [
                 "LinkedResource"
             ],
-            "url": "https://publisher.example.org/mobydick//html/copyright.html"
-        },
-        {
-            "type": [
-                "LinkedResource"
-            ],
-            "url": "https://publisher.example.org/mobydick//html/introduction.html"
-        },
-        {
-            "type": [
-                "LinkedResource"
-            ],
-            "url": "https://publisher.example.org/mobydick//html/epigraph.html"
-        },
-        {
-            "type": [
-                "LinkedResource"
-            ],
-            "url": "https://publisher.example.org/mobydick//html/c001.html"
-        },
-        {
-            "type": [
-                "LinkedResource"
-            ],
-            "url": "https://publisher.example.org/mobydick//html/c002.html"
-        },
-        {
-            "type": [
-                "LinkedResource"
-            ],
-            "url": "https://publisher.example.org/mobydick//html/c003.html"
-        },
-        {
-            "type": [
-                "LinkedResource"
-            ],
-            "url": "https://publisher.example.org/mobydick//html/c004.html"
-        },
-        {
-            "type": [
-                "LinkedResource"
-            ],
-            "url": "https://publisher.example.org/mobydick//html/c005.html"
-        },
-        {
-            "type": [
-                "LinkedResource"
-            ],
-            "url": "https://publisher.example.org/mobydick//html/c006.html"
+            "url": "acronyms.html"
         }
     ],
     "resources": [
@@ -91,7 +43,7 @@
             "type": [
                 "LinkedResource"
             ],
-            "url": "https://publisher.example.org/mobydick//css/mobydick.css"
+            "url": "css/appaloosa.css"
         },
         {
             "type": [
