@@ -1,10 +1,7 @@
 {
-    "conformsTo": ["https://example.com/publication"],
-    "profile": "https://example.com/publication",
     "type": [
         "Book"
     ],
-    "url": ["https://publisher.example.org/mobydick"],
     "name": [
         {
             "value": "IPCC Glossary",
@@ -23,7 +20,7 @@
             ]
         }
     ],
-    "dateModified": "2018-02-10T17:00:00Z",
+    "dateModified": "2023-02-10T17:00:00Z",
     "readingOrder": [
         {
             "type": [
@@ -44,53 +41,6 @@
                 "LinkedResource"
             ],
             "url": "css/appaloosa.css"
-        },
-        {
-            "type": [
-                "LinkedResource"
-            ],
-            "rel": [
-                "cover"
-            ],
-            "url": "https://publisher.example.org/mobydick//images/cover.jpg",
-            "encodingFormat": "image/jpeg"
-        },
-        {
-            "type": [
-                "LinkedResource"
-            ],
-            "url": "https://publisher.example.org/mobydick//html/toc.html",
-            "rel": [
-                "contents"
-            ]
-        },
-        {
-            "type": [
-                "LinkedResource"
-            ],
-            "url": "https://publisher.example.org/mobydick//fonts/STIXGeneral.otf",
-            "encodingFormat": "application/vnd.ms-opentype"
-        },
-        {
-            "type": [
-                "LinkedResource"
-            ],
-            "url": "https://publisher.example.org/mobydick//fonts/STIXGeneralBol.otf",
-            "encodingFormat": "application/vnd.ms-opentype"
-        },
-        {
-            "type": [
-                "LinkedResource"
-            ],
-            "url": "https://publisher.example.org/mobydick//fonts/STIXGeneralBolIta.otf",
-            "encodingFormat": "application/vnd.ms-opentype"
-        },
-        {
-            "type": [
-                "LinkedResource"
-            ],
-            "url": "https://publisher.example.org/mobydick//fonts/STIXGeneralItalic.otf",
-            "encodingFormat": "application/vnd.ms-opentype"
         }
     ]
 }
